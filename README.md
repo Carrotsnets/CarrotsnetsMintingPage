@@ -1,1 +1,3 @@
 # CarrotsnetsMintingPage
+
+npm install
