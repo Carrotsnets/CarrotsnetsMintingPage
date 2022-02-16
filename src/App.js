@@ -26,21 +26,22 @@ const Leaf = styled.img`
 
 const Leaf1 = styled(Leaf)`
   bottom: 4vh;
-  right: 32vw;
+  right: 20vw;
 `;
 
 const Leaf2 = styled(Leaf)`
-  bottom: 3vh;
-  left: 13vw;
+  top: 13vh;
+  right: 18vw;
 `;
 
 const Leaf3 = styled(Leaf)`
-  left: 18vw;
+  right: 4vw;
+  top: 20vh;
 `;
 
 const Leaf4 = styled(Leaf)`
-  right: 47vw;
-  top: 7vh;
+  left: 10vw;
+  top: 13vh;
 `;
 
 const Leaf5 = styled(Leaf)`
@@ -49,13 +50,13 @@ const Leaf5 = styled(Leaf)`
 `;
 
 const Leaf6 = styled(Leaf)`
-  bottom: 3vh;
-  left: 13vw;
+  left: 18vw;
+  top: 3vh;
 `;
 
 const Leaf7 = styled(Leaf)`
-  bottom: 3vh;
-  left: 13vw;
+  left: 17vw;
+  top: 20vh;
 `;
 
 function App() {
