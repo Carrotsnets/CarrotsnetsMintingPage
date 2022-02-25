@@ -1,9 +1,9 @@
 import styled from "styled-components";
-import logo from "./Carrotsnets_logo.png";
-import gif from "./Carrotpicking.gif";
-import bye from "./Carrotbye.gif";
-import leaf from "./leaf.png";
-// import Caver from "caver-js";
+import logo from "./imgs/Carrotsnets_logo.png";
+import gif from "./imgs/Carrotpicking.gif";
+import bye from "./imgs/Carrotbye.gif";
+import leaf from "./imgs/leaf.png";
+import Caver from "caver-js";
 import "./App.css";
 
 // const COUNT_CONTRACT_ADDRESS = ""; //사용할 컨트랙트 주소 입력
